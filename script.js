@@ -11,6 +11,7 @@ window.addEventListener("scroll", function () {
 var menu = document.querySelector(".menu");
 var menuBtn = document.querySelector(".menu-btn");
 var closeBtn = document.querySelector(".close-btn");
+var menuNavbarA = document.querySelectorAll("header .menu a");
 
 menuBtn.addEventListener("click", () => {
     menu.classList.add("active");
@@ -20,3 +21,4 @@ closeBtn.addEventListener("click", () => {
     menu.classList.remove("active");
 })
 
+menuNavbarA.add
