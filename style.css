@@ -128,7 +128,7 @@ header .btn {
 .section-six {
     min-height: 100vh;
     /* background: #001018; */
-    background-image: url(spaceWallpaper.jpg);
+    background-color: #111217;
     background-attachment: fixed;
     padding: 20px 12px;
 }
@@ -141,7 +141,7 @@ header .btn {
 }
 .section-three .bar {
     background: #333;
-    box-shadow: 0 0 10px #333;
+    box-shadow: 0 0 5px #111;
     display: block;
     border-radius: 5px;
     height: 4px;
@@ -155,14 +155,14 @@ header .btn {
     float: right;
 }
 
-.section-three .html { width: 95%; background: #dd6633; box-shadow: 0 0 8px #dd6633;}
-.section-three .css { width: 90%; background: #3377dd; box-shadow: 0 0 8px #3377dd;}
-.section-three .javascript { width: 75%; background: #dddd33;box-shadow: 0 0 8px #dddd33;}
-.section-three .bootstrap { width: 85%; background: #663399;box-shadow: 0 0 8px #9933dd;}
-.section-three .cSharp { width: 70%; background: #aa33aa;box-shadow: 0 0 8px #aa33aa;}
-.section-three .office { width: 85%; background: #33dd33;box-shadow: 0 0 8px #33dd33;}
-.section-three .sql { width: 75%; background: #dd3333;box-shadow: 0 0 8px #dd3333;}
-.section-three .photoshop { width: 90%; background: #3399dd;box-shadow: 0 0 8px #3399dd;}
+.section-three .html { width: 95%; background: #dd6633; box-shadow: 0 0 4px #dd6633;}
+.section-three .css { width: 90%; background: #3377dd; box-shadow: 0 0 4px #3377dd;}
+.section-three .javascript { width: 75%; background: #dddd33;box-shadow: 0 0 4px #dddd33;}
+.section-three .bootstrap { width: 85%; background: #663399;box-shadow: 0 0 4px #9933dd;}
+.section-three .cSharp { width: 70%; background: #aa33aa;box-shadow: 0 0 4px #aa33aa;}
+.section-three .office { width: 85%; background: #33dd33;box-shadow: 0 0 4px #33dd33;}
+.section-three .sql { width: 75%; background: #dd3333;box-shadow: 0 0 4px #dd3333;}
+.section-three .photoshop { width: 90%; background: #3399dd;box-shadow: 0 0 4px #3399dd;}
 
 .section-three img {
     height: 36px;
@@ -191,7 +191,7 @@ header .btn {
 #education,
 #contact {
     height: 48px;
-    background-image: url(spaceWallpaper.jpg);
+    background-color: #111217;
     background-attachment: fixed;
 }
 
@@ -404,7 +404,7 @@ header .btn {
 
 header.sticky {
     background-color: rgba(0, 0, 0, 0.8);
-    box-shadow: 0 0 20px #0000ff;
+    box-shadow: 0 0 20px #111217;
     transition: background 300ms;
 }
 
@@ -504,7 +504,7 @@ header.sticky {
     .section-five,
     .section-six {
         min-height: 40vh;
-        background-image: url(spaceWallpaper.jpg);
+        background-color: #111217;
         background-attachment: fixed;
     }
 
